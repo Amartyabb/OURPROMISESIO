@@ -23,7 +23,7 @@ publishDir = "docs"
 [[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://www.facebook.com/ourpromises.io/"
 
 [[params.social]]
   medium = "instagram"
