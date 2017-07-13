@@ -1,4 +1,4 @@
-baseurl = "http://example.org"
+baseurl = "https://amartyabb.github.io/OurPromisesIO/"
 title = "Our Promises"
 theme = "dimension"
 languageCode = "en-us"
